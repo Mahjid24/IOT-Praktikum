@@ -10,8 +10,8 @@ const char* password = "ngegasgame";
 const char* mqtt_server = "mqtt.revolusi-it.com";
 const char* mqtt_user = "usm";
 const char* mqtt_pass = "usmjaya1";
-const char* clientId = "G.231.22.0062";
-const char* topik = "iot/G.231.22.0062";
+const char* clientId = "G.231.22.0101";
+const char* topik = "iot/G.231.22.0101";
 
 // === Pin DHT, LM35, LCD, LED ===
 #define DHTPIN D4
